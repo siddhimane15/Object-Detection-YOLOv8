@@ -76,7 +76,7 @@ def speech_recognition_thread():
         try:
             command = recognizer.recognize_google(audio).lower()
             print("You said:", command)
-            if "watson" in command:
+            if "jordan" in command:
                 engine.say("Observing the surrounding area. Please wait.")
                 engine.runAndWait()
                 handle_objects = True
