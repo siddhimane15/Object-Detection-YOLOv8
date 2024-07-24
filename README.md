@@ -16,8 +16,8 @@ This project leverages the YOLOv8n model for real-time object detection, integra
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Strroke21/Speech-Recognition-and-Audio-Transformation.git
+    cd Speech-Recognition-and-Audio-Transformation
     ```
 
 2. **Install the required Python libraries:**
