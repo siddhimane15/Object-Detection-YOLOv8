@@ -31,7 +31,7 @@ This project leverages the YOLOv8n model for real-time object detection, integra
 
 1. **Run the script:**
     ```bash
-    python3 main.py
+    python3 speech_object_detect_v8.py
     ```
 
 2. The application will start capturing video from your webcam.
