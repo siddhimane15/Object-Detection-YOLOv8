@@ -25,7 +25,7 @@ This project leverages the YOLOv8n model for real-time object detection, integra
     pip install opencv-python numpy pyttsx3 SpeechRecognition ultralytics
     ```
 
-3. **Download the YOLOv8n model** and place it in your project directory.
+3. **Yolo v8 model will be installed in the folder automatically
 
 ## Usage
 
