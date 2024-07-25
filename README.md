@@ -31,6 +31,7 @@ This project leverages the YOLOv8n model for real-time object detection, integra
 
 1. **Run the script:**
     ```bash
+    cd Object-Detection-YOLOv8
     python3 speech_object_detect_v8.py
     ```
 
